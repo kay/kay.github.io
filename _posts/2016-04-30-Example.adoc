@@ -1,0 +1,10 @@
+:sectnums:
+
+= Example
+
+.Raw
+====
+Test example
+====
+[.lead]
+This is the ultimate paragraph.
