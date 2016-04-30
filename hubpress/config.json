@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "kay",
-    "repositoryName": "kay.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"kay","repositoryName":"kay.github.io","branch":"master","cname":"log.seekingconsistency.co.uk"},"site":{"url":"http://log.seekingconsistency.co.uk"},"socialnetwork":{},"theme":{"name":"Casper","url":"//kay.github.io/themes/Casper"}}
