@@ -1,6 +1,11 @@
+
 :sectnums:
 
 = Example
+
+:stem:
+
+
 
 .Raw
 ====
@@ -8,3 +13,19 @@ Test example
 ====
 [.lead]
 This is the ultimate paragraph.
+
+
+[stem]
+++++
+\\begin{array}{cc}
+  a & b \\\\
+  c & c
+\\end{array}
+++++
+
+
+when `x < y` we have
+
+stem:[x^2 - y^2 = (x + y)(x - y)]
+
+stem:[sqrt(4) = 2]
